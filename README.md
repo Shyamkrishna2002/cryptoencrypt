@@ -27,7 +27,7 @@ A beginner-friendly Python project for encrypting and decrypting messages using 
 - Install the required library:
   ```bash
   pip install cryptography
-  '''
+  
 
 
 
