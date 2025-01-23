@@ -44,9 +44,9 @@ A beginner-friendly Python project for encrypting and decrypting messages using 
 
 ### **Encryption Example**
 
-'''Enter the message to encrypt: Hello, World!
+**Enter the message to encrypt: Hello, World!
 Generated Key (save this to decrypt): YWx0K2ZxM2N3bW5rb2QzNm5ldmpzMGFtZHNmMTU5NGM=
-Encrypted Message (Cipher): gAAAAABhRNExr9eFuwDqN9JK3svzNBL6BVaIoGBy2UweHJeb4gg9FXaO1'''
+Encrypted Message (Cipher): gAAAAABhRNExr9eFuwDqN9JK3svzNBL6BVaIoGBy2UweHJeb4gg9FXaO1**
 
 
 ### **Decryption Example**
