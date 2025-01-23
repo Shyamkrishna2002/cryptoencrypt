@@ -45,10 +45,13 @@ python decrypt_message.py
 ### **Encryption Example**
 
 Enter the message to encrypt: Hello, World!
+  ```plaintext
 Generated Key (save this to decrypt): YWx0K2ZxM2N3bW5rb2QzNm5ldmpzMGFtZHNmMTU5NGM=
 Encrypted Message (Cipher): gAAAAABhRNExr9eFuwDqN9JK3svzNBL6BVaIoGBy2UweHJeb4gg9FXaO1
 
+
 ### **Decryption Example**
+  ```plaintext
 Enter the decryption key: YWx0K2ZxM2N3bW5rb2QzNm5ldmpzMGFtZHNmMTU5NGM=
 Enter the encrypted message (cipher): gAAAAABhRNExr9eFuwDqN9JK3svzNBL6BVaIoGBy2UweHJeb4gg9FXaO1
 Decrypted Message: Hello, World!
