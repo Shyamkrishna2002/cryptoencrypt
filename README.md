@@ -25,7 +25,9 @@ A beginner-friendly Python project for encrypting and decrypting messages using 
 ### **Prerequisites:**
 - Python 3.x
 - Install the required library:
+  ```bash
   pip install cryptography
+  '''
 
 
 
@@ -33,10 +35,14 @@ A beginner-friendly Python project for encrypting and decrypting messages using 
 
 ### 1. **Encryption**
 - Run the encryption script to generate a key and encrypt your message:
-- python encrypt_message.py
+```bash
+python encrypt_message.py
+```
 
 ### 2. **Decryption**
-- python decrypt_message.py
+```bash
+ python decrypt_message.py
+```
 
 
 
@@ -62,8 +68,9 @@ Encrypted Message (Cipher): gAAAAABhRNExr9eFuwDqN9JK3svzNBL6BVaIoGBy2UweHJeb4gg9
 # Error Handling
 
 - If the key or cipher text is incorrect, the program displays:
-  ```plaintext
+  ```bash
   Error: Decryption failed. The key or cipher text is incorrect.
+  ```
 
   
 
